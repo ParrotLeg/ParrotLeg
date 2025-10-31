@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<div id="header" align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFzNmU2anV0OW5wcnJncDJzZTBzeXY4MHZzcjJ0bm8wc2xvYzFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mE0M2TVys8k6Y/giphy.gif" width="100"/></div>
 <!--
 **ParrotLeg/ParrotLeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
