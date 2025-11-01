@@ -32,7 +32,7 @@ I am an artist, designer and programmer from Russia.
 
 <div>
 <img width ='40px' src ='https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png'/>
-<img width ='40px' src ='https://cdn-icons-png.flaticon.com/512/4299/4299956.png'/>
+<img width ='32px' src ='https://raw.githubusercontent.com/toreylittlefield/HackerRank/master/Badges%20and%20Images/SQL%20Icon.png'/>
 <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png'/>
 <img width ='25+px' src ='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg'/>
 <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png'/>
