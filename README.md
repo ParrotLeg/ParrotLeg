@@ -2,8 +2,6 @@
 <div id="header" align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBiazZkdHJ6NWc4eGZ2aGlyeWE5c2dybDM4Nm1odGQ5Mjhua3RkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksEpdA4OvpP9u/giphy.gif" width="100"/></div>
 -->
 
-<img src="https://komarev.com/ghpvc/?username=ParrotLeg&style=flat-square&color=blue" alt=""/>
-<p font-style = "italic" color = "grey">This is a draft version of the profile</p>
 
 <div>
 <h1>
@@ -17,7 +15,7 @@
 </h1>
 
 
-<p><img align="right" src="https://media1.tenor.com/m/TbuU2f5z5P8AAAAC/thank-you.gif" width="300px"/>
+<p><img align="right" src="https://media1.tenor.com/m/TbuU2f5z5P8AAAAC/thank-you.gif" width="320px"/>
 
 
 
@@ -56,7 +54,9 @@ I am an artist, designer and programmer from Russia.
 </div>
 </div>
 
-Thank for visiting my profile! <img src="https://media.tenor.com/qrPILsLM7_AAAAAi/idv.gif" width="40">
+Thanks for visiting my profile! <img src="https://media.tenor.com/qrPILsLM7_AAAAAi/idv.gif" width="40">
+
+<img src="https://komarev.com/ghpvc/?username=ParrotLeg&style=flat-square&color=blue" alt=""/>
 <!--
 https://media1.tenor.com/m/GDiLXTjW-w8AAAAd/good-morning-beach.gif
 
