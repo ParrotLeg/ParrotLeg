@@ -8,11 +8,41 @@
 <div>
 <h1>
   WELCOME TO NOGA'S SPACE
+  <img src="https://media.tenor.com/m9lTuhfEtxAAAAAi/sonic-the-hedgehog-sonic.gif" width="100px"/>
+  <!--
   <img src="https://media1.tenor.com/m/hvh0ucb7o-4AAAAd/sonic-devil.gif" width="45px"/>
   <img src="https://media1.tenor.com/m/g5qgBvPZpgUAAAAC/idv-identityv.gif" width="45px"/>
   <img src="https://media1.tenor.com/m/qpxS4hYopbIAAAAC/luca-balsa-luca-idv.gif" width="45px"/>
+  -->
 </h1>
 
+
+<p><img align="right" src="https://media1.tenor.com/m/TbuU2f5z5P8AAAAC/thank-you.gif" width="300px"/>
+
+
+
+
+I am an artist, designer and programmer from Russia.
+
+- I'm currently a second-year student of applied computer science in design :desktop_computer: 
+
+- I want  to become a game developer <img src="https://media.tenor.com/eyv5F0i6UhcAAAAi/luca-balsa-bduck.gif" width="40">
+
+- In my free time I'm developing in drawing <img src="https://media.tenor.com/R2l6qkTL7xgAAAAi/edgar-valden-identity-v.gif" width="40">
+
+<h2>Languages and Tools:</h2>
+
+<div>
+<img width ='40px' src ='https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png'/>
+<img width ='40px' src ='https://cdn-icons-png.flaticon.com/512/4299/4299956.png'/>
+<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png'/>
+<img width ='25+px' src ='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg'/>
+<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png'/>
+<img width ='40px' src ='https://cdn.shopify.com/s/files/1/0754/2767/6508/files/procreate-logo_480x480.jpg?v=1683203376'/>
+
+</div>
+
+<h2>My social media:</h2>
 <div id="badges">
   <a href="https://pin.it/7uEainPfx">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
@@ -26,30 +56,8 @@
 </div>
 </div>
 
-
-I am an artist, designer and programmer from Russia.
-
-- I'm currently a second-year student of applied computer science in design :desktop_computer: 
-
-- I want  to become a game developer <img src="https://media.tenor.com/eyv5F0i6UhcAAAAi/luca-balsa-bduck.gif" width="30">
-
-- In my free time I'm developing in drawing <img src="https://media.tenor.com/R2l6qkTL7xgAAAAi/edgar-valden-identity-v.gif" width="30">
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-<div><img src="https://media1.tenor.com/m/TbuU2f5z5P8AAAAC/thank-you.gif" width="45px"/></div>
-
+Thank for visiting my profile! <img src="https://media.tenor.com/qrPILsLM7_AAAAAi/idv.gif" width="40">
 <!--
-**ParrotLeg/ParrotLeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://media1.tenor.com/m/GDiLXTjW-w8AAAAd/good-morning-beach.gif
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
