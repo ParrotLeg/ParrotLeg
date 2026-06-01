@@ -45,6 +45,9 @@ I am an artist, designer and programmer from Russia.
   <a href="https://pin.it/7uEainPfx">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
+  <a href="https://www.tumblr.com/n0ga">
+    <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Tumbler Badge"/>
+  </a>
   <a href="https://steamcommunity.com/profiles/76561199045544014/">
     <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
