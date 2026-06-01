@@ -31,13 +31,15 @@ I am an artist, designer and programmer from Russia.
 <h2>Languages and Tools:</h2>
 
 <div>
+<img width ='25+px' src ='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg'/>
+<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_GIMP_icon_-_v3.0.svg/1280px-The_GIMP_icon_-_v3.0.svg.png'/>
+<img width ='40px' src ='https://cdn.shopify.com/s/files/1/0754/2767/6508/files/procreate-logo_480x480.jpg?v=1683203376'/>
+<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/960px-Adobe_Animate_CC_icon_%282020%29.svg.png'/>
+<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png'/>
+<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png?_=20250115194431'/>
 <img width ='40px' src ='https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png'/>
 <img width ='32px' src ='https://raw.githubusercontent.com/toreylittlefield/HackerRank/master/Badges%20and%20Images/SQL%20Icon.png'/>
 <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png'/>
-<img width ='25+px' src ='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg'/>
-<img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png'/>
-<img width ='40px' src ='https://cdn.shopify.com/s/files/1/0754/2767/6508/files/procreate-logo_480x480.jpg?v=1683203376'/>
-
 </div>
 
 <h2>My social media:</h2>
@@ -45,9 +47,12 @@ I am an artist, designer and programmer from Russia.
   <a href="https://pin.it/7uEainPfx">
     <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
-  <a href="https://www.tumblr.com/n0ga">
-    <img src="https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest&logoColor=white" alt="Tumbler Badge"/>
-  </a>
+ <a href="https://www.tumblr.com/n0ga">
+    <img src="https://img.shields.io/badge/Tumblr-001935?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr Badge"/>
+</a>
+  <a href="https://t.me/yoyo_noga">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
   <a href="https://steamcommunity.com/profiles/76561199045544014/">
     <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
